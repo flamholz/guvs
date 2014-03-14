@@ -3,7 +3,7 @@
 import numpy as np
 import unittest
 
-from image.extraction import CircleFinder
+from image.extraction.circle_finder import CircleFinder
 from skimage.data import coins
 
 

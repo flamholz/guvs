@@ -4,6 +4,7 @@ from skimage import exposure
 from skimage.filter import rank
 from skimage.morphology import disk
 
+
 def boost_contrast_global(image):
     """Returns a new image with contrast boosted globally.
     
