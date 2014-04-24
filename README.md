@@ -1,4 +1,4 @@
 guvs
 ====
 
-Giant Unilamellar Vesicle (GUV) playground
+Giant Unilamellar Vesicle (GUV) playground for my rotation in the Fletcher lab.
